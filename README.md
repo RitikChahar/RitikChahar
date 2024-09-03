@@ -1,6 +1,59 @@
 # 💫 About Me:
-Hey there! I'm Ritick Kumar 🦸‍♂️<br>Welcome to my GitHub, where coding meets occasional chaos! I’m currently juggling my Bachelor’s in Computer Science from Chandigarh University while attempting to save the tech world one Python script at a time.<br><br>🚀 What I've Been Up To<br>Co-Founder & CTO at Wizzout and UICS: I co-founded Wizzout to make student connections cooler than ever, and UICS to give Aadhaar Cards a superhero upgrade. And yes, I convinced the Ministry of Electronics and Information Technology to take a peek!<br>Python Developer & Group Lead at DoWell Research Ltd.: Spent 1 year and 9 months coding, leading a team, and turning caffeine into code. My team's proud achievements include launching our tools on PyPi and npm.<br>Freelancer on Truelancer: 90 projects, a 4.9-star rating, and still trying to figure out if I’m a coding wizard or just really lucky.<br><br>💡 Projects That Make Me Smile<br>Tailor Resume: Ever wanted your resume to get a makeover? This Python tool does just that, highlighting the right skills like a fashion designer for your job hunt.<br>Auto Inventory: Keeps track of your stuff so you don’t have to. It’s like having a personal assistant without the need for small talk.<br>List N Rank: Create and rank lists because everyone loves a good list, right?<br>Whisperer: An anonymous sharing platform. Because sometimes, you just need to share things without leaving a digital footprint.<br>Amazon-Flipkart Price Tracker: Helps you save money by tracking prices. It’s like having a personal shopping assistant who never sleeps.<br>Bulk Email Sender: For when you need to send emails to everyone you know—and maybe some people you don’t.<br>Face Recognition System: A system so smart, it knows your face better than your friends do.<br>Movie Guide: Scrapes IMDb’s parents guide so you can make informed movie choices without the spoilers.<br>Vox Clone AI: Turn text into voice with a personal touch. Because who doesn’t want to hear their words in a new voice?<br><br>🏆 Achievements That Make Me Go “Wow”<br>Released Secure Repository Library and Permutation Package on PyPi and npm. My code is now famous!<br>Ranked top backend developer on Truelancer and got a VIP pass to their featured freelancer series.<br>Led a team to the finals at the Serb-Inae Hackathon. We didn’t win, but hey, we were featured on the Ministry of Science and Technology website.<br>Pitched an AI project at IIT Delhi’s Tryst 19 tech fest. Even got some screen time on Rajya Sabha Channel. Mom’s proud!<br>Worked with ADRDE and Mrs. Tessy Thomas on aerial deployment projects. True story—she’s a missile genius!<br><br>🛠️ My Superpowers<br>Languages: Python, C/C++, JavaScript, HTML, CSS, SQL (Basically, if it’s a programming language, I’m on it.)<br>Frameworks: Django, Flask, Django Rest Framework, Tailwind CSS, Bootstrap (I make frameworks look good.)<br>Tools: Git, VS Code, PyCharm, Visual Studio, IntelliJ, Eclipse (My toolkit is as diverse as my interests.)<br>Libraries: Pandas, NumPy, Matplotlib, BeautifulSoup, Requests, Scikit-learn, and more. (Libraries that help me make sense of data and life.)
+# Hey there! I'm Ritick Kumar 🦸‍♂️
 
+Welcome to my GitHub, where coding meets occasional chaos! I’m currently juggling my Bachelor’s in Computer Science from Chandigarh University while attempting to save the tech world one Python script at a time.
+
+## 🚀 What I've Been Up To
+
+- **Co-Founder & CTO at Wizzout and UICS**: I co-founded Wizzout to make student connections cooler than ever, and UICS to give Aadhaar Cards a superhero upgrade. And yes, I convinced the Ministry of Electronics and Information Technology to take a peek!
+
+- **Python Developer & Group Lead at DoWell Research Ltd.**: Spent 1 year and 9 months coding, leading a team, and turning caffeine into code. My team's proud achievements include launching our tools on PyPi and npm.
+
+- **Freelancer on Truelancer**: Completed 90 projects with a 4.9-star rating, and still trying to figure out if I’m a coding wizard or just really lucky.
+
+## 💡 Projects That Make Me Smile
+
+- **Tailor Resume**: Ever wanted your resume to get a makeover? This Python tool does just that, highlighting the right skills like a fashion designer for your job hunt.
+
+- **Auto Inventory**: Keeps track of your stuff so you don’t have to. It’s like having a personal assistant without the need for small talk.
+
+- **List N Rank**: Create and rank lists because everyone loves a good list, right?
+
+- **Whisperer**: An anonymous sharing platform. Because sometimes, you just need to share things without leaving a digital footprint.
+
+- **Amazon-Flipkart Price Tracker**: Helps you save money by tracking prices. It’s like having a personal shopping assistant who never sleeps.
+
+- **Bulk Email Sender**: For when you need to send emails to everyone you know—and maybe some people you don’t.
+
+- **Face Recognition System**: A system so smart, it knows your face better than your friends do.
+
+- **Movie Guide**: Scrapes IMDb’s parents guide so you can make informed movie choices without the spoilers.
+
+- **Vox Clone AI**: Turn text into voice with a personal touch. Because who doesn’t want to hear their words in a new voice?
+
+## 🏆 Achievements That Make Me Go “Wow”
+
+- Released Secure Repository Library and Permutation Package on PyPi and npm. My code is now famous!
+
+- Ranked top backend developer on Truelancer and got a VIP pass to their featured freelancer series.
+
+- Led a team to the finals at the Serb-Inae Hackathon. We didn’t win, but hey, we were featured on the Ministry of Science and Technology website.
+
+- Pitched an AI project at IIT Delhi’s Tryst 19 tech fest. Even got some screen time on Rajya Sabha Channel.
+
+- Worked with ADRDE and Mrs. Tessy Thomas on aerial deployment projects. True story—she’s a missile genius!
+
+## 🛠️ My Superpowers
+
+- **Languages**: Python, C/C++, JavaScript, HTML, CSS, SQL (Basically, if it’s a programming language, I’m on it.)
+
+- **Frameworks**: Django, Flask, Django Rest Framework, Tailwind CSS, Bootstrap (I make frameworks look good.)
+
+- **Tools**: Git, VS Code, PyCharm, Visual Studio, IntelliJ, Eclipse (My toolkit is as diverse as my interests.)
+
+- **Libraries**: Pandas, NumPy, Matplotlib, BeautifulSoup, Requests, Scikit-learn, and more. (Libraries that help me make sense of data and life.)
+
+Feel free to explore my repositories! I promise they’re more organized than my room. 😅
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/tMqF6Ca6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ritickchahar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritick-kumar-49292b224/) 
